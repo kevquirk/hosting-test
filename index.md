@@ -2,7 +2,8 @@
 layout: default
 ---
 
-Change 8
+Change 9
+
 Sloths are a group of arboreal Neotropical xenarthran mammals, constituting the suborder Folivora. Noted for their slowness of movement, they spend most of their lives hanging upside down in the trees of the tropical rainforests of South America and Central America. They are considered to be most closely related to anteaters, together making up the xenarthran order Pilosa.
 
 ![Sloth image](/assets/images/sloth-01.jpg)
